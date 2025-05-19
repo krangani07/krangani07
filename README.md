@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kaushal and I'm a Computer Engineer from Gujarat, India</h2>
+<h2 align="left">Hi 👋! My name is Kaushal and I'm a Computer Engineering Student from Gujarat, India</h2>
 
 ###
 
